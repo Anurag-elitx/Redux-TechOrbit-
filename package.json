@@ -1,0 +1,17 @@
+{
+  "name": "techorbit-monorepo",
+  "version": "1.0.0",
+  "description": "TechOrbit - A Modern E-commerce Platform",
+  "scripts": {
+    "start": "concurrently \"npm run start:server\" \"npm run start:client\"",
+    "start:server": "cd server && npm start",
+    "start:client": "cd client && npm start",
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "test:setup": "node test-setup.js"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  },
+  "author": "TechOrbit Team",
+  "license": "ISC"
+}

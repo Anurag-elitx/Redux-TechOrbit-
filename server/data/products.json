@@ -1,0 +1,2153 @@
+[
+    {
+        "id": "1",
+        "brand": "Samsung",
+        "model": "Galaxy S21 Ultra",
+        "description": "6.8 inch Dynamic AMOLED 2X display, Exynos 2100 / Qualcomm Snapdragon 888 processor, 12 GB or 16 GB RAM, 128 GB, 256 GB, or 512 GB storage, Quad 108 MP Wide, 10 MP Periscope Telephoto, 10 MP Telephoto, and 12 MP Ultra Wide cameras, Non-removable Li-Ion 5000 mAh battery",
+        "display": "6.8 inch Dynamic AMOLED 2X display",
+        "processor": "Exynos 2100 / Qualcomm Snapdragon 888",
+        "ram": "12 GB or 16 GB",
+        "storage": "128 GB, 256 GB, or 512 GB",
+        "camera": "Quad 108 MP Wide, 10 MP Periscope Telephoto, 10 MP Telephoto, and 12 MP Ultra Wide cameras",
+        "battery": "Non-removable Li-Ion 5000 mAh battery",
+        "price": 89779,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "featured": "true",
+        "image": "https://live.staticflickr.com/65535/52752716841_34c7a2a9bb_w.jpg",
+        "stock": 5,
+        "reviews": 58,
+        "stars": 4.8,
+        "images": [
+            {
+                "id": "front1",
+                "url": "https://live.staticflickr.com/65535/52753330248_836d62bbaf_n.jpg",
+                "filename": "samsung-galaxy-s21-ultra-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back1",
+                "url": "https://live.staticflickr.com/65535/52752834626_58b111e605_n.jpg",
+                "filename": "samsung-galaxy-s21-ultra-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "brand": "Samsung",
+        "model": "Galaxy Z Fold 3",
+        "description": "7.6 inch Foldable Dynamic AMOLED 2X display, Qualcomm Snapdragon 888 processor, 12 GB RAM, 256 GB or 512 GB storage, Triple 12 MP Wide, 12 MP Telephoto, and 12 MP Ultra Wide cameras, Non-removable Li-Po 4400 mAh battery",
+        "price": 124999,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#F5F5F5"
+        ],
+        "shipping": true,
+        "display": "7.6 inch Foldable Dynamic AMOLED 2X display",
+        "processor": "Qualcomm Snapdragon 888",
+        "ram": "12 GB",
+        "storage": "256 GB or 512 GB",
+        "camera": "Triple 12 MP Wide, 12 MP Telephoto, and 12 MP Ultra Wide cameras",
+        "battery": "Non-removable Li-Po 4400 mAh battery",
+        "image": "https://live.staticflickr.com/65535/52752717136_8c8a484b18_z.jpg",
+        "stock": 5,
+        "reviews": 68,
+        "stars": 4.9,
+        "images": [
+            {
+                "id": "front2",
+                "url": "https://live.staticflickr.com/65535/52753330188_bf882d3b65_z.jpg",
+                "filename": "Galaxy-Z-Fold-3-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back2",
+                "url": "https://live.staticflickr.com/65535/52753330203_3346536d56_w.jpg",
+                "filename": "Galaxy-Z-Fold-3-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "brand": "Samsung",
+        "model": "Galaxy Note 20 Ultra",
+        "description": "6.9 inch Dynamic AMOLED 2X display, Exynos 990 / Qualcomm Snapdragon 865+ processor, 12 GB RAM, 128 GB or 512 GB storage, Triple 108 MP Wide, 12 MP Periscope Telephoto, and 12 MP Ultra Wide cameras, Non-removable Li-Ion 4500 mAh battery",
+        "price": 84999,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#BFBFBF",
+            "#9B9B9B",
+            "#0066CC",
+            "#F2C70D"
+        ],
+        "shipping": true,
+        "display": "6.9 inch Dynamic AMOLED 2X display",
+        "processor": "Exynos 990 / Qualcomm Snapdragon 865+",
+        "ram": "12 GB",
+        "storage": "128 GB or 512 GB",
+        "camera": "Triple 108 MP Wide, 12 MP Periscope Telephoto, and 12 MP Ultra Wide cameras",
+        "battery": "Non-removable Li-Ion 4500 mAh battery",
+        "image": "https://live.staticflickr.com/65535/52753211988_6a9a8cc971_w.jpg",
+        "stock": 9,
+        "reviews": 98,
+        "stars": 4.9,
+        "images": [
+            {
+                "id": "front3",
+                "url": "https://live.staticflickr.com/65535/52753087469_572038862b_n.jpg",
+                "filename": "Galaxy-Note-20-Ultra-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back3",
+                "url": "https://live.staticflickr.com/65535/52753245365_163758ef85_n.jpg",
+                "filename": "Galaxy-Note-20-Ultra-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "brand": "Samsung",
+        "model": "Galaxy S20 FE",
+        "description": "6.5 inch Super AMOLED display, Exynos 990 / Qualcomm Snapdragon 865 processor, 6 GB or 8 GB RAM, 128 GB or 256 GB storage, Triple 12 MP Wide, 8 MP Telephoto, and 12 MP Ultra Wide cameras, Non-removable Li-Po 4500 mAh battery",
+        "price": 44999,
+        "featured": "true",
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#C4C4C4",
+            "#730000",
+            "#EA4C4C",
+            "#A3A3FF"
+        ],
+        "shipping": true,
+        "display": "6.5 inch Super AMOLED display",
+        "processor": "Exynos 990 / Qualcomm Snapdragon 865",
+        "ram": "6 GB or 8 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Triple 12 MP Wide, 8 MP Telephoto, and 12 MP Ultra Wide cameras",
+        "battery": "Non-removable Li-Po 4500 mAh battery",
+        "image": "https://live.staticflickr.com/65535/52753211963_01e0544709_w.jpg",
+        "stock": 19,
+        "reviews": 48,
+        "stars": 4.1,
+        "images": [
+            {
+                "id": "front4",
+                "url": "https://live.staticflickr.com/65535/52752834651_b07c561a93_n.jpg",
+                "filename": "Galaxy-S20-FE-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back4",
+                "url": "https://live.staticflickr.com/65535/52752834666_24a5e8fc95_n.jpg",
+                "filename": "Galaxy-S20-FE-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "brand": "Samsung",
+        "model": "Galaxy A52",
+        "description": "6.5 inch Super AMOLED display, Qualcomm Snapdragon 720G processor, 4 GB, 6 GB, or 8 GB RAM, 128 GB or 256 GB storage, Quad 64 MP Wide, 12 MP Ultra Wide, 5 MP Macro, and 5 MP Depth cameras, Non-removable Li-Po 4500 mAh battery",
+        "price": 29990,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.5 inch Super AMOLED display",
+        "processor": "Qualcomm Snapdragon 720G",
+        "ram": "4 GB, 6 GB, or 8 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Quad 64 MP Wide, 12 MP Ultra Wide, 5 MP Macro, and 5 MP Depth cameras",
+        "battery": "Non-removable Li-Po 4500 mAh battery",
+        "image": "https://live.staticflickr.com/65535/52752717171_596aeb862a.jpg",
+        "stock": 12,
+        "reviews": 18,
+        "stars": 4.7,
+        "images": [
+            {
+                "id": "front5",
+                "url": "https://live.staticflickr.com/65535/52753245370_17b896ef61_n.jpg",
+                "filename": "Galaxy-A52-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back5",
+                "url": "https://live.staticflickr.com/65535/52753087479_b084d8505d_n.jpg",
+                "filename": "Galaxy-A52-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "brand": "Apple",
+        "model": "iPhone 13 Pro Max",
+        "description": "6.7 inch Super Retina XDR display, A15 Bionic chip with 6-core CPU and 5-core GPU, 6 GB RAM, 128 GB, 256 GB, 512 GB, or 1 TB storage, Triple 12 MP Ultra Wide, Wide, and Telephoto cameras, Non-removable Li-Ion 4352 mAh battery",
+        "price": 129900,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#007aff",
+            "#ff3b30",
+            "#34c759",
+            "#ff9500"
+        ],
+        "shipping": true,
+        "display": "6.7 inch Super Retina XDR display",
+        "processor": "A15 Bionic chip with 6-core CPU and 5-core GPU",
+        "ram": "6 GB",
+        "storage": "128 GB, 256 GB, 512 GB, or 1 TB",
+        "camera": "Triple 12 MP Ultra Wide, Wide, and Telephoto cameras",
+        "battery": "Non-removable Li-Ion 4352 mAh battery",
+        "image": "https://live.staticflickr.com/65535/52752181107_3186be1575_n.jpg",
+        "stock": 6,
+        "reviews": 118,
+        "stars": 4.5,
+        "images": [
+            {
+                "id": "front6",
+                "url": "https://live.staticflickr.com/65535/52752299947_d14c1e2b89_w.jpg",
+                "filename": "iPhone-13-Pro-Max-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back6",
+                "url": "https://live.staticflickr.com/65535/52752299942_b131e9c8ac_w.jpg",
+                "filename": "iPhone-13-Pro-Max-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "brand": "Apple",
+        "model": "iPhone 13 mini",
+        "description": "5.4 inch Super Retina XDR display, A15 Bionic chip with 6-core CPU and 5-core GPU, 4 GB RAM, 128 GB, 256 GB, or 512 GB storage, Dual 12 MP Ultra Wide and Wide cameras, Non-removable Li-Ion 2406 mAh battery",
+        "price": 69900,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#007aff",
+            "#ff3b30",
+            "#34c759",
+            "#ff9500"
+        ],
+        "shipping": true,
+        "display": "5.4 inch Super Retina XDR display",
+        "processor": "A15 Bionic chip with 6-core CPU and 5-core GPU",
+        "ram": "4 GB",
+        "storage": "128 GB, 256 GB, or 512 GB",
+        "camera": "Dual 12 MP Ultra Wide and Wide cameras",
+        "battery": "Non-removable Li-Ion 2406 mAh battery",
+        "image": "https://live.staticflickr.com/65535/52752181117_394d4a89cb_n.jpg",
+        "stock": 10,
+        "reviews": 218,
+        "stars": 4.8,
+        "images": [
+            {
+                "id": "front7",
+                "url": "https://live.staticflickr.com/65535/52752834866_a1b8875520_w.jpg",
+                "filename": "iPhone-13-mini-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back7",
+                "url": "https://live.staticflickr.com/65535/52752834871_e0da88067c.jpg",
+                "filename": "iiPhone-13-mini-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "brand": "Apple",
+        "model": "iPhone SE (2nd generation)",
+        "description": "4.7 inch Retina HD display, A13 Bionic chip with 6-core CPU and 4-core GPU, 3 GB RAM, 64 GB, 128 GB, or 256 GB storage, Single 12 MP Wide camera, Non-removable Li-Ion 1821 mAh battery",
+        "price": 24999,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#ff3b30"
+        ],
+        "shipping": false,
+        "display": "4.7 inch Retina HD display",
+        "processor": "A13 Bionic chip with 6-core CPU and 4-core GPU",
+        "ram": "3 GB",
+        "storage": "64 GB, 128 GB, or 256 GB",
+        "camera": "Single 12 MP Wide camera",
+        "battery": "Non-removable Li-Ion 1821 mAh battery",
+        "image": "https://live.staticflickr.com/65535/52752957194_4d8ede4442_w.jpg",
+        "stock": 16,
+        "reviews": 119,
+        "stars": 3.8,
+        "images": [
+            {
+                "id": "front8",
+                "url": "https://live.staticflickr.com/65535/52753330483_6e436bcf23_w.jpg",
+                "filename": "iPhone-SE-2nd-gen-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back8",
+                "url": "https://live.staticflickr.com/65535/52753245485_1a6ae6ac69_w.jpg",
+                "filename": "iPhone-SE-2nd-gen-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "brand": "Apple",
+        "model": "iPhone 12 Pro",
+        "description": "6.1 inch Super Retina XDR display, A14 Bionic chip with 6-core CPU and 4-core GPU, 6 GB RAM, 128 GB, 256 GB, 512 GB, or 1 TB storage, triple 12 MP Ultra Wide, Wide, and Telephoto cameras, non-removable Li-Ion 2815 mAh battery",
+        "price": 74821,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#ff3b30",
+            "#34c759"
+        ],
+        "shipping": true,
+        "display": "6.1 inch Super Retina XDR display",
+        "processor": "A14 Bionic chip with 6-core CPU and 4-core GPU",
+        "ram": "6 GB",
+        "storage": "128 GB, 256 GB, 512 GB, or 1 TB",
+        "camera": "Triple 12 MP Ultra Wide, Wide, and Telephoto cameras",
+        "battery": "Non-removable Li-Ion 2815 mAh battery",
+        "image": "https://live.staticflickr.com/65535/52752957214_e1635873ae_n.jpg",
+        "stock": 8,
+        "reviews": 100,
+        "stars": 3.0,
+        "images": [
+            {
+                "id": "front9",
+                "url": "https://live.staticflickr.com/65535/52753330553_7720b78451.jpg",
+                "filename": "iPhone-12-Pro-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back9",
+                "url": "https://live.staticflickr.com/65535/52753330563_c65b88da5f_w.jpg",
+                "filename": "iPhone-12-Pro-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "brand": "Apple",
+        "model": "iPhone XR",
+        "description": "6.1 inch Liquid Retina HD display, A12 Bionic chip with 6-core CPU and 4-core GPU, 3 GB RAM, 64 GB, 128 GB, or 256 GB storage, single 12 MP Wide camera, non-removable Li-Ion 2942 mAh battery",
+        "price": 36682,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.1 inch Liquid Retina HD display",
+        "processor": "A12 Bionic chip with 6-core CPU and 4-core GPU",
+        "ram": "3 GB",
+        "storage": "64 GB, 128 GB, or 256 GB",
+        "camera": "Single 12 MP Wide camera",
+        "battery": "Non-removable Li-Ion 2942 mAh battery",
+        "image": "https://live.staticflickr.com/65535/52752717066_a1c4bbf50e_n.jpg",
+        "stock": 20,
+        "reviews": 131,
+        "stars": 4.0,
+        "images": [
+            {
+                "id": "front10",
+                "url": "https://live.staticflickr.com/65535/52752834821_c2a9e4bec6_n.jpg",
+                "filename": "iPhone-XR-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back10",
+                "url": "https://live.staticflickr.com/65535/52752311882_d4328487d5_n.jpg",
+                "filename": "iPhone-XR-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "brand": "OnePlus",
+        "model": "OnePlus 9 Pro",
+        "description": "6.7 inch Fluid AMOLED display, Qualcomm Snapdragon 888 5G processor, 8 GB or 12 GB RAM, 128 GB or 256 GB storage, quad camera system with 48 MP main camera, 50 MP ultra-wide camera, 8 MP telephoto camera, and 2 MP monochrome camera, 4500 mAh battery with Warp Charge 65T (wired) and Warp Charge 50 Wireless",
+        "price": 71345,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#ff3b30",
+            "#34c759"
+        ],
+        "shipping": true,
+        "display": "6.7 inch Fluid AMOLED display",
+        "processor": "Qualcomm Snapdragon 888 5G",
+        "ram": "8 GB or 12 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Quad camera system with 48 MP main camera, 50 MP ultra-wide camera, 8 MP telephoto camera, and 2 MP monochrome camera",
+        "battery": "4500 mAh battery with Warp Charge 65T (wired) and Warp Charge 50 Wireless",
+        "featured": "true",
+        "image": "https://live.staticflickr.com/65535/52753211798_66e1e3eb20_n.jpg",
+        "stock": 10,
+        "reviews": 121,
+        "stars": 4.4,
+        "images": [
+            {
+                "id": "front11",
+                "url": "https://live.staticflickr.com/65535/52753245425_db52e0e4ae_w.jpg",
+                "filename": "OnePlus-9-Pro-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back11",
+                "url": "https://live.staticflickr.com/65535/52753330378_88ff73a49d_w.jpg",
+                "filename": "OnePlus-9-Pro-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "brand": "OnePlus",
+        "model": "OnePlus Nord 2",
+        "description": "6.43 inch Fluid AMOLED display, MediaTek Dimensity 1200-AI processor, 6 GB, 8 GB, or 12 GB RAM, 128 GB or 256 GB storage, triple camera system with 50 MP main camera, 8 MP ultra-wide camera, and 2 MP monochrome camera, 4500 mAh battery with Warp Charge 65 (wired)",
+        "price": 29479,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#ff3b30"
+        ],
+        "shipping": true,
+        "display": "6.43 inch Fluid AMOLED display",
+        "processor": "MediaTek Dimensity 1200-AI",
+        "ram": "6 GB, 8 GB, or 12 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Triple camera system with 50 MP main camera, 8 MP ultra-wide camera, and 2 MP monochrome camera",
+        "battery": "4500 mAh battery with Warp Charge 65 (wired)",
+        "image": "https://live.staticflickr.com/65535/52752716931_afb3229ee7_n.jpg",
+        "stock": 34,
+        "reviews": 111,
+        "stars": 4.5,
+        "images": [
+            {
+                "id": "front12",
+                "url": "",
+                "filename": "OnePlus-Nord-2-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back12",
+                "url": "",
+                "filename": "OnePlus-Nord-2-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "brand": "OnePlus",
+        "model": "OnePlus 8T",
+        "description": "6.55 inch Fluid AMOLED display, Qualcomm Snapdragon 865 5G processor, 8 GB or 12 GB RAM, 128 GB or 256 GB storage, Quad camera system with 48 MP main camera, 16 MP ultra-wide camera, 5 MP macro camera, and 2 MP monochrome camera, 4500 mAh battery with Warp Charge 65 (wired) and Warp Charge 30T (wireless)",
+        "price": 55980,
+        "colors": [
+            "#ff3b30",
+            "#34c759"
+        ],
+        "shipping": true,
+        "display": "6.55 inch Fluid AMOLED display",
+        "processor": "Qualcomm Snapdragon 865 5G",
+        "ram": "8 GB or 12 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Quad camera system with 48 MP main camera, 16 MP ultra-wide camera, 5 MP macro camera, and 2 MP monochrome camera",
+        "battery": "4500 mAh battery with Warp Charge 65 (wired) and Warp Charge 30T (wireless)",
+        "image": "https://live.staticflickr.com/65535/52752957114_e69cb72e4e_w.jpg",
+        "stock": 34,
+        "reviews": 189,
+        "stars": 4.9,
+        "images": [
+            {
+                "id": "front13",
+                "url": "https://live.staticflickr.com/65535/52752834796_80cff7b389.jpg",
+                "filename": "OnePlus-8T-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back13",
+                "url": "https://live.staticflickr.com/65535/52752299817_26613bbe5a_w.jpg",
+                "filename": "OnePlus-8T-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "brand": "OnePlus",
+        "model": "OnePlus Nord CE 5G",
+        "description": "6.43 inch Fluid AMOLED display, Qualcomm Snapdragon 750G 5G processor, 6 GB, 8 GB, or 12 GB RAM, 128 GB or 256 GB storage, Triple camera system with 64 MP main camera, 8 MP ultra-wide camera, and 2 MP mono camera, 4500 mAh battery with Warp Charge 30T Plus (wired)",
+        "price": 23930,
+        "colors": [
+            "#ff3b30",
+            "#34c759",
+            "#000"
+        ],
+        "shipping": true,
+        "display": "6.43 inch Fluid AMOLED display",
+        "processor": "Qualcomm Snapdragon 750G 5G",
+        "ram": "6 GB, 8 GB, or 12 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Triple camera system with 64 MP main camera, 8 MP ultra-wide camera, and 2 MP mono camera",
+        "battery": "4500 mAh battery with Warp Charge 30T Plus (wired)",
+        "image": "https://live.staticflickr.com/65535/52753127375_968a4a366e_n.jpg",
+        "stock": 3,
+        "reviews": 145,
+        "stars": 4.9,
+        "images": [
+            {
+                "id": "front14",
+                "url": "https://live.staticflickr.com/65535/52753330348_c35273683a_w.jpg",
+                "filename": "OnePlus-Nord-CE-5G-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back14",
+                "url": "https://live.staticflickr.com/65535/52752834741_959ca9ed00.jpg",
+                "filename": "OnePlus-Nord-CE-5G-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "brand": "OnePlus",
+        "model": "OnePlus 8 Pro",
+        "description": "6.78 inch Fluid AMOLED display, Qualcomm Snapdragon 865 5G processor, 8 GB or 12 GB RAM, 128 GB or 256 GB storage, Quad camera system with 48 MP main camera, 48 MP ultra-wide camera, 8 MP telephoto camera, and 5 MP color filter camera, 4510 mAh battery with Warp Charge 30T (wired) and Warp Charge 30 Wireless",
+        "price": 59980,
+        "colors": [
+            "#000",
+            "#ff3b30"
+        ],
+        "shipping": true,
+        "display": "6.78 inch Fluid AMOLED display",
+        "processor": "Qualcomm Snapdragon 865 5G",
+        "ram": "8 GB or 12 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Quad camera system with 48 MP main camera, 48 MP ultra-wide camera, 8 MP telephoto camera, and 5 MP color filter camera",
+        "battery": "4510 mAh battery with Warp Charge 30T (wired) and Warp Charge 30 Wireless",
+        "image": "https://live.staticflickr.com/65535/52753127385_244c70642b_n.jpg",
+        "stock": 19,
+        "reviews": 19,
+        "stars": 4.1,
+        "images": [
+            {
+                "id": "front15",
+                "url": "https://live.staticflickr.com/65535/52753330748_1246520a02_n.jpg",
+                "filename": "OnePlus-8-Pro-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back15",
+                "url": "https://live.staticflickr.com/65535/52752835111_804caf56f0_n.jpg",
+                "filename": "OnePlus-8-Pro-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "brand": "ASUS",
+        "model": "ASUS ZenFone 8",
+        "description": "5.9 inch AMOLED display, Qualcomm Snapdragon 888 5G processor, 6 GB, 8 GB, or 16 GB RAM, 128 GB or 256 GB storage, Dual camera system with 64 MP main camera and 12 MP ultra-wide camera, 4000 mAh battery with 30W fast charging",
+        "price": 44080,
+        "colors": [
+            "#000",
+            "#730000"
+        ],
+        "shipping": true,
+        "display": "5.9 inch AMOLED display",
+        "processor": "Qualcomm Snapdragon 888 5G",
+        "ram": "6 GB, 8 GB, or 16 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Dual camera system with 64 MP main camera and 12 MP ultra-wide camera",
+        "battery": "4000 mAh battery with 30W fast charging",
+        "image": "https://live.staticflickr.com/65535/52752957284_80cb5024e7_n.jpg",
+        "stock": 21,
+        "reviews": 154,
+        "stars": 4.6,
+        "images": [
+            {
+                "id": "front16",
+                "url": "https://live.staticflickr.com/65535/52752834956_5550761b32.jpg",
+                "filename": "Asus-Zenfone-8-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back16",
+                "url": "https://live.staticflickr.com/65535/52752300012_7954aaa0a7_n.jpg",
+                "filename": "Asus-Zenfone-8-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "brand": "ASUS",
+        "model": "ASUS ROG Phone 5",
+        "price": 73721,
+        "shipping": true,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#ff3b30"
+        ],
+        "description": "The ASUS ROG Phone 5 features a 6.78 inch AMOLED display, Qualcomm Snapdragon 888 5G processor, 8 GB, 12 GB, or 16 GB of RAM, 128 GB, 256 GB, or 512 GB of storage, triple camera system with 64 MP main camera, 13 MP ultra-wide camera, and 5 MP macro camera, 6000 mAh battery with 65W fast charging. Available in black and silver colors.",
+        "display": "6.78 inch AMOLED display",
+        "processor": "Qualcomm Snapdragon 888 5G",
+        "ram": "8 GB, 12 GB, or 16 GB",
+        "storage": "128 GB, 256 GB, or 512 GB",
+        "camera": "Triple camera system with 64 MP main camera, 13 MP ultra-wide camera, and 5 MP macro camera",
+        "battery": "6000 mAh battery with 65W fast charging",
+        "image": "https://live.staticflickr.com/65535/52752957299_184df94be7_n.jpg",
+        "stock": 30,
+        "reviews": 22,
+        "stars": 3.1,
+        "images": [
+            {
+                "id": "front17",
+                "url": "https://live.staticflickr.com/65535/52753330718_4aedc6b7a9_n.jpg",
+                "filename": "Asus-ROG-5-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back17",
+                "url": "https://live.staticflickr.com/65535/52753075974_e2781970ed_n.jpg",
+                "filename": "Asus-ROG-5-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "brand": "ASUS",
+        "model": "ASUS ZenFone 7",
+        "price": 54932,
+        "shipping": true,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#FF8C00"
+        ],
+        "description": "The ASUS ZenFone 7 features a 6.67 inch AMOLED display, Qualcomm Snapdragon 865 5G processor, 6 GB or 8 GB of RAM, 128 GB or 256 GB of storage, triple camera system with 64 MP main camera, 12 MP ultra-wide camera, and 8 MP telephoto camera, 5000 mAh battery with 30W fast charging. Available in black, silver, and orange colors.",
+        "display": "6.67 inch AMOLED display",
+        "processor": "Qualcomm Snapdragon 865 5G",
+        "ram": "6 GB or 8 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Triple camera system with 64 MP main camera, 12 MP ultra-wide camera, and 8 MP telephoto camera",
+        "battery": "5000 mAh battery with 30W fast charging",
+        "image": "https://live.staticflickr.com/65535/52753212008_bb76676a24_n.jpg",
+        "stock": 20,
+        "reviews": 109,
+        "stars": 4.4,
+        "images": [
+            {
+                "id": "front18",
+                "url": "https://live.staticflickr.com/65535/52752834971_e00d8ccd3d_n.jpg",
+                "filename": "Asus-Zenfone-7-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back18",
+                "url": "https://live.staticflickr.com/65535/52752300037_d594112229_n.jpg",
+                "filename": "Asus-Zenfone-7-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "brand": "ASUS",
+        "model": "ASUS ZenFone 6",
+        "description": "6.4 inch IPS LCD display, Qualcomm Snapdragon 855 processor, 6 GB or 8 GB RAM, 64 GB, 128 GB, or 256 GB storage, Flip camera system with 48 MP main camera and 13 MP ultra-wide camera, 5000 mAh battery with 18W fast charging",
+        "price": 36269,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.4 inch IPS LCD display",
+        "processor": "Qualcomm Snapdragon 855",
+        "ram": "6 GB or 8 GB",
+        "storage": "64 GB, 128 GB, or 256 GB",
+        "camera": "Flip camera system with 48 MP main camera and 13 MP ultra-wide camera",
+        "battery": "5000 mAh battery with 18W fast charging",
+        "image": "https://live.staticflickr.com/65535/52752181222_37848f4a29_n.jpg",
+        "stock": 14,
+        "reviews": 19,
+        "stars": 4.2,
+        "images": [
+            {
+                "id": "front19",
+                "url": "https://live.staticflickr.com/65535/52752300067_826f3be24f_n.jpg",
+                "filename": "Asus-Zenfone-6-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back19",
+                "url": "https://live.staticflickr.com/65535/52753330708_506bc31dbf_n.jpg",
+                "filename": "Asus-Zenfone-6-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "brand": "ASUS",
+        "model": "ASUS ZenFone Max Pro M2",
+        "description": "6.26 inch IPS LCD display, Qualcomm Snapdragon 660 processor, 3 GB, 4 GB, or 6 GB RAM, 32 GB or 64 GB storage, Dual camera system with 12 MP main camera and 5 MP depth sensor, 5000 mAh battery with 10W charging",
+        "price": 18431,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#FF8C00"
+        ],
+        "shipping": true,
+        "display": "6.26 inch IPS LCD display",
+        "processor": "Qualcomm Snapdragon 660",
+        "ram": "3 GB, 4 GB, or 6 GB",
+        "storage": "32 GB or 64 GB",
+        "camera": "Dual camera system with 12 MP main camera and 5 MP depth sensor",
+        "battery": "5000 mAh battery with 10W charging",
+        "image": "https://live.staticflickr.com/65535/52752957274_5e3e3bb0bc_n.jpg",
+        "stock": 32,
+        "reviews": 18,
+        "stars": 4.1,
+        "images": [
+            {
+                "id": "front20",
+                "url": "https://live.staticflickr.com/65535/52752834931_daf97285a5_w.jpg",
+                "filename": "Asus-Zenfone-Max-Pro-M2-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back20",
+                "url": "https://live.staticflickr.com/65535/52753075864_dc099886f8_w.jpg",
+                "filename": "Asus-Zenfone-Max-Pro-M2-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "brand": "Vivo",
+        "model": "Vivo X60 Pro+",
+        "description": "6.56 inch AMOLED display, Qualcomm Snapdragon 888 5G processor, 12 GB or 16 GB RAM, 256 GB or 512 GB storage, Quad camera system with 50 MP main camera, 48 MP ultra-wide camera, 32 MP portrait camera, and 8 MP periscope camera, 4200 mAh battery with 55W fast charging",
+        "price": 80964,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#FF0000",
+            "#007AFF"
+        ],
+        "shipping": true,
+        "display": "6.56 inch AMOLED display",
+        "processor": "Qualcomm Snapdragon 888 5G",
+        "ram": "12 GB or 16 GB",
+        "storage": "256 GB or 512 GB",
+        "camera": "Quad camera system with 50 MP main camera, 48 MP ultra-wide camera, 32 MP portrait camera, and 8 MP periscope camera",
+        "battery": "4200 mAh battery with 55W fast charging",
+        "image": "https://live.staticflickr.com/65535/52752956939_c6d93dceb4_w.jpg",
+        "stock": 39,
+        "reviews": 21,
+        "stars": 4.0,
+        "images": [
+            {
+                "id": "front21",
+                "url": "https://live.staticflickr.com/65535/52753330098_083f93db27_n.jpg",
+                "filename": "Vivo-X60-Pro-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back21",
+                "url": "https://live.staticflickr.com/65535/52753245230_77228fc155_n.jpg",
+                "filename": "Vivo-X60-Pro-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "brand": "Vivo",
+        "model": "Vivo X50 Pro",
+        "description": "The Vivo X50 Pro comes with a 6.56 inch AMOLED display, powered by a Qualcomm Snapdragon 765G processor, with 8 GB or 12 GB of RAM and 128 GB or 256 GB of storage. It features a quad camera system with a 48 MP main camera, 8 MP periscope camera, 13 MP portrait camera, and 8 MP ultra-wide camera, as well as a 4315 mAh battery with 33W fast charging support. Available in two colors: #000 and #CDD0D0.",
+        "price": 51503,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.56 inch AMOLED display",
+        "processor": "Qualcomm Snapdragon 765G",
+        "ram": "8 GB or 12 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Quad camera system with 48 MP main camera, 8 MP periscope camera, 13 MP portrait camera, and 8 MP ultra-wide camera",
+        "battery": "4315 mAh battery with 33W fast charging",
+        "image": "https://live.staticflickr.com/65535/52753211658_7867d044c6_w.jpg",
+        "stock": 30,
+        "reviews": 29,
+        "stars": 3.1,
+        "images": [
+            {
+                "id": "front22",
+                "url": "https://live.staticflickr.com/65535/52752834546_9f6b4c7b66_n.jpg",
+                "filename": "Vivo-X50-Pro-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back22",
+                "url": "https://live.staticflickr.com/65535/52753075589_2b4c22963e_n.jpg",
+                "filename": "Vivo-X50-Pro-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "brand": "Vivo",
+        "model": "Vivo V21",
+        "description": "The Vivo V21 features a 6.44 inch AMOLED display, powered by a MediaTek Dimensity 800U 5G processor, with 8 GB of RAM and 128 GB of storage. It comes with a triple camera system that includes a 64 MP main camera, 8 MP ultra-wide camera, and 2 MP macro camera. The phone is equipped with a 4000 mAh battery that supports 33W fast charging. Available in two colors: #000 and #CDD0D0.",
+        "price": 30075,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.44 inch AMOLED display",
+        "processor": "MediaTek Dimensity 800U 5G",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "camera": "Triple camera system with 64 MP main camera, 8 MP ultra-wide camera, and 2 MP macro camera",
+        "battery": "4000 mAh battery with 33W fast charging",
+        "image": "https://live.staticflickr.com/65535/52752956974_98a27b011e_w.jpg",
+        "stock": 33,
+        "reviews": 91,
+        "stars": 3.9,
+        "images": [
+            {
+                "id": "front23",
+                "url": "https://live.staticflickr.com/65535/52752834556_be0f07fb01.jpg",
+                "filename": "Vivo-V21-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back23",
+                "url": "https://live.staticflickr.com/65535/52753245620_34f7195d0b_n.jpg",
+                "filename": "Vivo-V21-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "brand": "Vivo",
+        "model": "Vivo Y72 5G",
+        "description": "The Vivo Y72 5G features a 6.58 inch IPS LCD display, powered by the MediaTek Dimensity 700 5G processor with 8 GB RAM and 128 GB storage. It has a dual camera system with a 48 MP main camera and a 2 MP depth sensor, and a 5000 mAh battery with 18W fast charging.",
+        "price": 22117,
+        "colors": [
+            "#000",
+            "#CDD0D7",
+            "#007AFF"
+        ],
+        "shipping": true,
+        "display": "6.58 inch IPS LCD display",
+        "processor": "MediaTek Dimensity 700 5G",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "camera": "Dual camera system with 48 MP main camera and 2 MP depth sensor",
+        "battery": "5000 mAh battery with 18W fast charging",
+        "image": "https://live.staticflickr.com/65535/52753127250_09395bb06b_n.jpg",
+        "stock": 31,
+        "reviews": 9,
+        "stars": 4.3,
+        "images": [
+            {
+                "id": "front24",
+                "url": "https://live.staticflickr.com/65535/52753075474_abac658208_w.jpg",
+                "filename": "Vivo-Y72-5G-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back24",
+                "url": "https://live.staticflickr.com/65535/52753330038_0792f697ff.jpg",
+                "filename": "Vivo-Y72-5G-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "brand": "Vivo",
+        "model": "Vivo Y33s",
+        "description": "The Vivo Y33s features a 6.58 inch IPS LCD display, powered by the MediaTek Helio G80 processor with 8 GB RAM and 128 GB storage. It has a triple camera system with a 50 MP main camera, a 2 MP macro camera, and a 2 MP depth sensor, and a 5000 mAh battery with 18W fast charging.",
+        "price": 16950,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.58 inch IPS LCD display",
+        "processor": "MediaTek Helio G80",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "camera": "Triple camera system with 50 MP main camera, 2 MP macro camera, and 2 MP depth sensor",
+        "battery": "5000 mAh battery with 18W fast charging",
+        "image": "https://live.staticflickr.com/65535/52752180812_5a3b4c6408_w.jpg",
+        "stock": 31,
+        "reviews": 119,
+        "stars": 4.1,
+        "images": [
+            {
+                "id": "front25",
+                "url": "https://live.staticflickr.com/65535/52752834461_d2648c9cb6.jpg",
+                "filename": "Vivo-Y33s-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back25",
+                "url": "https://live.staticflickr.com/65535/52752834486_e79cc39e34_z.jpg",
+                "filename": "Vivo-Y33s-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "brand": "Google",
+        "model": "Google Pixel 6 Pro",
+        "description": "The Google Pixel 6 Pro features a 6.7 inch OLED display with 120Hz refresh rate, powered by the Google Tensor Processor with 12 GB RAM and 128 GB or 256 GB storage. It has a triple camera system with a 50 MP main camera, a 48 MP telephoto camera, and a 12 MP ultra-wide camera, and a 5000 mAh battery with 30W fast charging.",
+        "price": 67020,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#007AFF"
+        ],
+        "shipping": true,
+        "display": "6.7 inch OLED display with 120Hz refresh rate",
+        "processor": "Google Tensor Processor",
+        "ram": "12 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Triple camera system with 50 MP main camera, 48 MP telephoto camera, and 12 MP ultra-wide camera",
+        "battery": "5000 mAh battery with 30W fast charging",
+        "image": "https://live.staticflickr.com/65535/52753127520_2b46446cba_n.jpg",
+        "stock": 41,
+        "reviews": 19,
+        "stars": 4.1,
+        "images": [
+            {
+                "id": "front26",
+                "url": "https://live.staticflickr.com/65535/52753320345_8d07a16223.jpg",
+                "filename": "Google-Pixel-6-Pro-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back26",
+                "url": "https://live.staticflickr.com/65535/52753150739_30ff85aa6e_z.jpg",
+                "filename": "Google-Pixel-6-Pro-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "brand": "Google",
+        "model": "Google Pixel 6",
+        "description": "The Google Pixel 6 features a 6.4 inch OLED display with a 90Hz refresh rate, powered by the Google Tensor Processor with 8GB of RAM and available in 128 GB or 256 GB storage. It has a dual camera system with a 50 MP main camera and 12 MP ultra-wide camera, and is powered by a 4614 mAh battery with 30W fast charging.",
+        "price": 44080,
+        "shipping": true,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "display": "6.4 inch OLED display with 90Hz refresh rate",
+        "processor": "Google Tensor Processor",
+        "ram": "8 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Dual camera system with 50 MP main camera and 12 MP ultra-wide camera",
+        "battery": "4614 mAh battery with 30W fast charging",
+        "image": "https://live.staticflickr.com/65535/52753211943_3586b78ee3_n.jpg",
+        "stock": 2,
+        "reviews": 128,
+        "stars": 4.8,
+        "images": [
+            {
+                "id": "front27",
+                "url": "https://live.staticflickr.com/65535/52752909291_0241c3f9b3.jpg",
+                "filename": "Google-Pixel-6-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back27",
+                "url": "https://live.staticflickr.com/65535/52752374892_685d931d0c_z.jpg",
+                "filename": "Google-Pixel-6-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "brand": "Google",
+        "model": "Google Pixel 5a",
+        "description": "The Google Pixel 5a features a 6.34 inch OLED display, powered by the Qualcomm Snapdragon 765G with 6GB of RAM and 128 GB storage. It has a dual camera system with a 12.2 MP main camera and 16 MP ultra-wide camera, and is powered by a 4680 mAh battery with 18W fast charging.",
+        "price": 33105,
+        "shipping": true,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#ff3b30"
+        ],
+        "display": "6.34 inch OLED display",
+        "processor": "Qualcomm Snapdragon 765G",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "camera": "Dual camera system with 12.2 MP main camera and 16 MP ultra-wide camera",
+        "battery": "4680 mAh battery with 18W fast charging",
+        "image": "https://live.staticflickr.com/65535/52752717116_0699cc12cd_n.jpg",
+        "stock": 4,
+        "reviews": 129,
+        "stars": 4.1,
+        "images": [
+            {
+                "id": "front28",
+                "url": "https://live.staticflickr.com/65535/52753404308_463a4b97e4_n.jpg",
+                "filename": "Google-Pixel-5a-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back28",
+                "url": "https://live.staticflickr.com/65535/52752374922_1c33fe53f7_n.jpg",
+                "filename": "Google-Pixel-5a-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "brand": "Google",
+        "model": "Google Pixel 4a 5G",
+        "description": "The Google Pixel 4a 5G features a 6.2 inch OLED display, powered by the Qualcomm Snapdragon 765G with 6GB of RAM and 128 GB storage. It has a dual camera system with a 12.2 MP main camera and 16 MP ultra-wide camera, and is powered by a 3885 mAh battery with 18W fast charging.",
+        "price": 36910,
+        "shipping": true,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "display": "6.2 inch OLED display",
+        "processor": "Qualcomm Snapdragon 765G",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "camera": "Dual camera system with 12.2 MP main camera and 16 MP ultra-wide camera",
+        "battery": "3885 mAh battery with 18W fast charging",
+        "image": "https://live.staticflickr.com/65535/52753127535_12691fce36_w.jpg",
+        "stock": 31,
+        "reviews": 67,
+        "stars": 4.6,
+        "images": [
+            {
+                "id": "front29",
+                "url": "https://live.staticflickr.com/65535/52752374937_b3f6d31e52_n.jpg",
+                "filename": "Google-Pixel-4a-5G-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back29",
+                "url": "https://live.staticflickr.com/65535/52752909326_da38211e12_w.jpg",
+                "filename": "Google-Pixel-4a-5G-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "brand": "Google",
+        "model": "Google Pixel 4a",
+        "description": "5.81 inch OLED display, Qualcomm Snapdragon 730G, 6 GB RAM, 128 GB storage, Single camera with 12.2 MP main camera, 3140 mAh battery with 18W fast charging",
+        "price": 26245,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#ff3b30"
+        ],
+        "shipping": true,
+        "display": "5.81 inch OLED display",
+        "processor": "Qualcomm Snapdragon 730G",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "camera": "Single camera with 12.2 MP main camera",
+        "battery": "3140 mAh battery with 18W fast charging",
+        "image": "https://live.staticflickr.com/65535/52752717126_b64be2140d_w.jpg",
+        "stock": 15,
+        "reviews": 61,
+        "stars": 4.7,
+        "images": [
+            {
+                "id": "front30",
+                "url": "https://live.staticflickr.com/65535/52752909266_a965489b33_n.jpg",
+                "filename": "Google-Pixel-4a-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back30",
+                "url": "https://live.staticflickr.com/65535/52752909261_c90cb8649c_n.jpg",
+                "filename": "Google-Pixel-4a-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "brand": "Realme",
+        "model": "Realme GT 5G",
+        "description": "6.43 inch Super AMOLED display with 120Hz refresh rate, Qualcomm Snapdragon 888, 8 GB or 12 GB RAM, 128 GB or 256 GB storage, Triple camera system with 64 MP main camera, 8 MP ultra-wide camera, and 2 MP macro camera, 4500 mAh battery with 65W fast charging",
+        "price": 44080,
+        "colors": [
+            "#FFFFFF",
+            "#CDD0D0",
+            "#000000"
+        ],
+        "shipping": true,
+        "display": "6.43 inch Super AMOLED display with 120Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 888",
+        "ram": "8 GB or 12 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Triple camera system with 64 MP main camera, 8 MP ultra-wide camera, and 2 MP macro camera",
+        "battery": "4500 mAh battery with 65W fast charging",
+        "image": "https://live.staticflickr.com/65535/52753211713_2d8f3277aa_w.jpg",
+        "stock": 11,
+        "reviews": 27,
+        "stars": 4.9,
+        "images": [
+            {
+                "id": "front31",
+                "url": "https://live.staticflickr.com/65535/52752909101_e0c7b7bf2c_n.jpg",
+                "filename": "Realme-GT-5G-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back31",
+                "url": "https://live.staticflickr.com/65535/52752909116_cd7e70e631_n.jpg",
+                "filename": "Realme-GT-5G-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "brand": "Realme",
+        "model": "Realme 9 Pro 5G",
+        "description": "6.55 inch Super AMOLED display with 120Hz refresh rate, Qualcomm Snapdragon 750G, 8 GB RAM, 128 GB or 256 GB storage, Quad camera system with 108 MP main camera, 8 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera, 4500 mAh battery with 65W fast charging",
+        "price": 36800,
+        "colors": [
+            "#FFFFFF",
+            "#CDD0D0",
+            "#000000",
+            "#A6A6A6"
+        ],
+        "shipping": true,
+        "display": "6.55 inch Super AMOLED display with 120Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 750G",
+        "ram": "8 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Quad camera system with 108 MP main camera, 8 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera",
+        "battery": "4500 mAh battery with 65W fast charging",
+        "image": "https://live.staticflickr.com/65535/52753211733_0693e6c36a_n.jpg",
+        "stock": 31,
+        "reviews": 67,
+        "stars": 4.6,
+        "images": [
+            {
+                "id": "front32",
+                "url": "https://live.staticflickr.com/65535/52752909186_5d98dd1242_n.jpg",
+                "filename": "Realme-9-Pro-5G-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back32",
+                "url": "https://live.staticflickr.com/65535/52753150384_e2be2b9e06_n.jpg",
+                "filename": "Realme-9-Pro-5G-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "brand": "Realme",
+        "model": "Realme 8 Pro",
+        "description": "6.4 inch Super AMOLED display, Qualcomm Snapdragon 720G, 6 GB or 8 GB RAM, 128 GB storage, Quad camera system with 108 MP main camera, 8 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera, 4500 mAh battery with 50W fast charging",
+        "price": 21963,
+        "colors": [
+            "#FFFFFF",
+            "#CDD0D0",
+            "#000000"
+        ],
+        "shipping": true,
+        "display": "6.4 inch Super AMOLED display",
+        "processor": "Qualcomm Snapdragon 720G",
+        "ram": "6 GB or 8 GB",
+        "storage": "128 GB",
+        "camera": "Quad camera system with 108 MP main camera, 8 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera",
+        "battery": "4500 mAh battery with 50W fast charging",
+        "image": "https://live.staticflickr.com/65535/52753211748_61acb677d3_n.jpg",
+        "stock": 61,
+        "reviews": 98,
+        "stars": 4.2,
+        "images": [
+            {
+                "id": "front33",
+                "url": "https://live.staticflickr.com/65535/52752909061_269d9568f5_n.jpg",
+                "filename": "Realme-8-Pro-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back33",
+                "url": "https://live.staticflickr.com/65535/52753404178_4b20042aed_n.jpg",
+                "filename": "Realme-8-Pro-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "brand": "Realme",
+        "model": "Realme 7",
+        "price": 14529,
+        "colors": [
+            "#F1F2F2",
+            "#E0E0E0"
+        ],
+        "shipping": true,
+        "description": "The Realme 7 features a 6.5 inch IPS LCD display with a 90Hz refresh rate. It is powered by a MediaTek Helio G95 processor and comes in 6 GB or 8 GB RAM variants with 64 GB or 128 GB of storage. The phone has a quad-camera system with a 64 MP main camera, 8 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera. It also features a 5000 mAh battery with 30W fast charging.",
+        "display": "6.5 inch IPS LCD display with 90Hz refresh rate",
+        "processor": "MediaTek Helio G95",
+        "ram": "6 GB or 8 GB",
+        "storage": "64 GB or 128 GB",
+        "camera": "Quad camera system with 64 MP main camera, 8 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera",
+        "battery": "5000 mAh battery with 30W fast charging",
+        "image": "https://live.staticflickr.com/65535/52753211758_b1b6a5b2ef_n.jpg",
+        "stock": 21,
+        "reviews": 30,
+        "stars": 4.4,
+        "images": [
+            {
+                "id": "front34",
+                "url": "https://live.staticflickr.com/65535/52753320055_6ddca7cd53_n.jpg",
+                "filename": "Realme-7-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back34",
+                "url": "https://live.staticflickr.com/65535/52752374842_09d92471f7_n.jpg",
+                "filename": "Realme-7-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "brand": "Realme",
+        "model": "Realme C21",
+        "price": 8805,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#ff3b30"
+        ],
+        "shipping": true,
+        "description": "The Realme C21 features a 6.5 inch IPS LCD display. It is powered by a MediaTek Helio G35 processor and comes in 3 GB or 4 GB RAM variants with 32 GB or 64 GB of storage. The phone has a triple-camera system with a 13 MP main camera, 2 MP macro camera, and 2 MP depth camera. It also features a 5000 mAh battery.",
+        "display": "6.5 inch IPS LCD display",
+        "processor": "MediaTek Helio G35",
+        "ram": "3 GB or 4 GB",
+        "storage": "32 GB or 64 GB",
+        "camera": "Triple camera system with 13 MP main camera, 2 MP macro camera, and 2 MP depth camera",
+        "battery": "5000 mAh battery",
+        "image": "https://live.staticflickr.com/65535/52753211758_b1b6a5b2ef_n.jpg",
+        "stock": 31,
+        "reviews": 67,
+        "stars": 4.6,
+        "images": [
+            {
+                "id": "front35",
+                "url": "https://live.staticflickr.com/65535/52752909151_6ed4fd3f2c_n.jpg",
+                "filename": "Realme-C21-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back35",
+                "url": "https://live.staticflickr.com/65535/52752374767_7cd5a07010_n.jpg",
+                "filename": "Realme-C21-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "brand": "Xiaomi",
+        "model": "Xiaomi Mi 12",
+        "price": 66579,
+        "description": "The Xiaomi Mi 12 features a 6.7 inch Super AMOLED display with 120Hz refresh rate. It is powered by Qualcomm Snapdragon 8 Gen 1 processor and comes with either 8 GB or 12 GB of RAM and 128 GB or 256 GB of storage. The quad camera system includes a 108 MP main camera, 20 MP ultra-wide camera, 12 MP periscope telephoto camera, and 5 MP macro camera. The phone is equipped with a 5000 mAh battery that supports 120W fast charging. Available in #000 and #CDD0D0 colors.",
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.7 inch Super AMOLED display with 120Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 8 Gen 1",
+        "ram": "8 GB or 12 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Quad camera system with 108 MP main camera, 20 MP ultra-wide camera, 12 MP periscope telephoto camera, and 5 MP macro camera",
+        "battery": "5000 mAh battery with 120W fast charging",
+        "image": "https://live.staticflickr.com/65535/52752180757_1d2c95376b_w.jpg",
+        "stock": 31,
+        "reviews": 61,
+        "stars": 4.1,
+        "images": [
+            {
+                "id": "front36",
+                "url": "https://live.staticflickr.com/65535/52752908966_35132801b5_w.jpg",
+                "filename": "Xiaomi-Mi-12-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back36",
+                "url": "https://live.staticflickr.com/65535/52753150239_cc97073f19_z.jpg",
+                "filename": "Xiaomi-Mi-12-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "brand": "Xiaomi",
+        "model": "Xiaomi Mi 11 Ultra",
+        "description": "The Xiaomi Mi 11 Ultra features a 6.81 inch AMOLED display with 120Hz refresh rate. It is powered by Qualcomm Snapdragon 888 processor and comes with 12 GB of RAM and either 256 GB or 512 GB of storage. The triple camera system includes a 50 MP main camera, 48 MP ultra-wide camera, and 48 MP periscope telephoto camera. The phone is equipped with a 5000 mAh battery that supports 67W fast charging. Available in #000 and #CDD0D0 colors.",
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.81 inch AMOLED display with 120Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 888",
+        "ram": "12 GB",
+        "storage": "256 GB or 512 GB",
+        "camera": "Triple camera system with 50 MP main camera, 48 MP ultra-wide camera, and 48 MP periscope telephoto camera",
+        "battery": "5000 mAh battery with 67W fast charging",
+        "price": 66579,
+        "image": "https://live.staticflickr.com/65535/52752180767_47fba8608b_n.jpg",
+        "stock": 1,
+        "reviews": 63,
+        "stars": 4.6,
+        "images": [
+            {
+                "id": "front37",
+                "url": "https://live.staticflickr.com/65535/52753404088_eea91ee646_n.jpg",
+                "filename": "Xiaomi-Mi-11-Ultra-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back37",
+                "url": "https://live.staticflickr.com/65535/52753319905_b134fd15d0_n.jpg",
+                "filename": "Xiaomi-Mi-11-Ultra-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "brand": "Xiaomi",
+        "model": "Xiaomi Redmi Note 11 Pro",
+        "description": "The Xiaomi Redmi Note 11 Pro features a 6.67 inch IPS LCD display with 120Hz refresh rate. It is powered by Mediatek Helio G96 processor and comes with 6 GB or 8 GB of RAM and 128 GB or 256 GB of storage. The quad camera system on the back includes a 64 MP main camera, 8 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera. The phone has a 5000 mAh battery with 67W fast charging support.",
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.67 inch IPS LCD display with 120Hz refresh rate",
+        "processor": "Mediatek Helio G96",
+        "ram": "6 GB or 8 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Quad camera system with 64 MP main camera, 8 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera",
+        "battery": "5000 mAh battery with 67W fast charging",
+        "price": 27067,
+        "image": "https://live.staticflickr.com/65535/52752956894_5afd2e3026_n.jpg",
+        "stock": 8,
+        "reviews": 89,
+        "stars": 4.8,
+        "images": [
+            {
+                "id": "front38",
+                "url": "https://live.staticflickr.com/65535/52753150114_042c688542_w.jpg",
+                "filename": "Xiaomi-Redmi-Note-11-Pro-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back38",
+                "url": "https://live.staticflickr.com/65535/52753150149_9983ef2b48_w.jpg",
+                "filename": "Xiaomi-Redmi-Note-11-Pro-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "brand": "Xiaomi",
+        "model": "Xiaomi Mi 10T Lite",
+        "description": "The Xiaomi Mi 10T Lite features a 6.67 inch IPS LCD display with 120Hz refresh rate. It is powered by Qualcomm Snapdragon 750G processor and comes with 6 GB or 8 GB of RAM and 64 GB or 128 GB of storage. The quad camera system on the back includes a 64 MP main camera, 8 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera. The phone has a 4820 mAh battery with 33W fast charging support.",
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#7F7F7F",
+            "#0099FF"
+        ],
+        "shipping": true,
+        "display": "6.67 inch IPS LCD display with 120Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 750G",
+        "ram": "6 GB or 8 GB",
+        "storage": "64 GB or 128 GB",
+        "camera": "Quad camera system with 64 MP main camera, 8 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera",
+        "battery": "4820 mAh battery with 33W fast charging",
+        "price": 20563,
+        "image": "https://live.staticflickr.com/65535/52752180792_1a3d7f6a32_n.jpg",
+        "stock": 31,
+        "reviews": 67,
+        "stars": 4.6,
+        "images": [
+            {
+                "id": "front39",
+                "url": "https://live.staticflickr.com/65535/52753404123_8329ecb746_n.jpg",
+                "filename": "Xiaomi-Mi-10T-Lite-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back39",
+                "url": "https://live.staticflickr.com/65535/52752374677_821014b8b0_n.jpg",
+                "filename": "Xiaomi-Mi-10T-Lite-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "brand": "Xiaomi",
+        "model": "Xiaomi Poco M4 Pro 5G",
+        "price": 16743,
+        "description": "The Xiaomi Poco M4 Pro 5G features a 6.67 inch IPS LCD display with a 120Hz refresh rate. It is powered by a Mediatek Dimensity 810 processor and comes with 4 GB or 6 GB of RAM and 64 GB or 128 GB of storage. The phone has a triple camera system with a 48 MP main camera, 2 MP macro camera, and 2 MP depth camera. It also has a 5000 mAh battery with 18W fast charging.",
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.67 inch IPS LCD display with 120Hz refresh rate",
+        "processor": "Mediatek Dimensity 810",
+        "ram": "4 GB or 6 GB",
+        "storage": "64 GB or 128 GB",
+        "camera": "Triple camera system with 48 MP main camera, 2 MP macro camera, and 2 MP depth camera",
+        "battery": "5000 mAh battery with 18W fast charging",
+        "image": "https://live.staticflickr.com/65535/52752180737_22d1231e9c_w.jpg",
+        "stock": 2,
+        "reviews": 17,
+        "stars": 4.3,
+        "images": [
+            {
+                "id": "front40",
+                "url": "https://live.staticflickr.com/65535/52752908931_a310d3e0ec_w.jpg",
+                "filename": "Xiaomi-Poco-M4-Pro-5G-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back40",
+                "url": "https://live.staticflickr.com/65535/52753150204_29972389dd_w.jpg",
+                "filename": "Xiaomi-Poco-M4-Pro-5G-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "brand": "Motorola",
+        "model": "Moto G Power (2022)",
+        "price": 14711,
+        "description": "The Moto G Power (2022) features a 6.6 inch IPS LCD display with a 60Hz refresh rate. It is powered by a Qualcomm Snapdragon 662 processor and comes with 3 GB or 4 GB of RAM and 32 GB or 64 GB of storage. The phone has a triple camera system with a 48 MP main camera, 2 MP macro camera, and 2 MP depth camera. It also has a 5000 mAh battery with 10W charging.",
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#ff3b30"
+        ],
+        "shipping": false,
+        "display": "6.6 inch IPS LCD display with 60Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 662",
+        "ram": "3 GB or 4 GB",
+        "storage": "32 GB or 64 GB",
+        "camera": "Triple camera system with 48 MP main camera, 2 MP macro camera, and 2 MP depth camera",
+        "battery": "5000 mAh battery with 10W charging",
+        "image": "https://live.staticflickr.com/65535/52753127435_22d3719f9d_n.jpg",
+        "stock": 65,
+        "reviews": 34,
+        "stars": 3.6,
+        "images": [
+            {
+                "id": "front41",
+                "url": "https://live.staticflickr.com/65535/52753404418_4f44036e3d_w.jpg",
+                "filename": "Moto-G-Power-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back41",
+                "url": "https://live.staticflickr.com/65535/52753150569_3ca4a216f8_w.jpg",
+                "filename": "Moto-G-Power-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "brand": "Motorola",
+        "model": "Moto G Stylus (2022)",
+        "description": "6.8 inch IPS LCD display with 60Hz refresh rate, Qualcomm Snapdragon 678 processor, 4 GB RAM, 128 GB storage, quad camera system with 50 MP main camera, 8 MP ultra-wide camera, 5 MP macro camera, and 2 MP depth camera, 4000 mAh battery with 10W charging",
+        "price": 22227,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.8 inch IPS LCD display with 60Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 678",
+        "ram": "4 GB",
+        "storage": "128 GB",
+        "camera": "Quad camera system with 50 MP main camera, 8 MP ultra-wide camera, 5 MP macro camera, and 2 MP depth camera",
+        "battery": "4000 mAh battery with 10W charging",
+        "image": "https://live.staticflickr.com/65535/52753127415_b4db051725_n.jpg",
+        "stock": 45,
+        "reviews": 17,
+        "stars": 4.2,
+        "images": [
+            {
+                "id": "front42",
+                "url": "https://live.staticflickr.com/65535/52752909396_94008a65aa_w.jpg",
+                "filename": "Moto-G-Stylus-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back42",
+                "url": "https://live.staticflickr.com/65535/52753320240_7eab238599_w.jpg",
+                "filename": "Moto-G-Stylus-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "brand": "Motorola",
+        "model": "Moto G50 (2021)",
+        "description": "6.5 inch IPS LCD display with 90Hz refresh rate, Qualcomm Snapdragon 480 processor, 4 GB RAM, 64 GB or 128 GB storage, triple camera system with 48 MP main camera, 5 MP macro camera, and 2 MP depth camera, 5000 mAh battery with 15W charging",
+        "price": 18280,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#00FFFF"
+        ],
+        "shipping": true,
+        "display": "6.5 inch IPS LCD display with 90Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 480",
+        "ram": "4 GB",
+        "storage": "64 GB or 128 GB",
+        "camera": "Triple camera system with 48 MP main camera, 5 MP macro camera, and 2 MP depth camera",
+        "battery": "5000 mAh battery with 15W charging",
+        "image": "https://live.staticflickr.com/65535/52753127445_f0997ab478_w.jpg",
+        "stock": 67,
+        "reviews": 67,
+        "stars": 2.6,
+        "images": [
+            {
+                "id": "front43",
+                "url": "https://live.staticflickr.com/65535/52753404383_97d0b8fd64_w.jpg",
+                "filename": "Moto-G50-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back43",
+                "url": "https://live.staticflickr.com/65535/52753320210_ce03daac06_w.jpg",
+                "filename": "Moto-G50-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "brand": "Motorola",
+        "model": "Moto E7 Power",
+        "description": "6.5 inch IPS LCD display with 60Hz refresh rate, MediaTek Helio G25 processor, 2 GB or 4 GB RAM, 32 GB or 64 GB storage, dual camera system with 13 MP main camera and 2 MP depth camera, 5000 mAh battery with 10W charging",
+        "price": 8799,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#FF0000"
+        ],
+        "shipping": true,
+        "display": "6.5 inch IPS LCD display with 60Hz refresh rate",
+        "processor": "MediaTek Helio G25",
+        "ram": "2 GB or 4 GB",
+        "storage": "32 GB or 64 GB",
+        "camera": "Dual camera system with 13 MP main camera and 2 MP depth camera",
+        "battery": "5000 mAh battery with 10W charging",
+        "image": "https://live.staticflickr.com/65535/52752717006_f4796d72f0_w.jpg",
+        "stock": 15,
+        "reviews": 627,
+        "stars": 4.7,
+        "images": [
+            {
+                "id": "front44",
+                "url": "https://live.staticflickr.com/65535/52752909436_c20eb6dffa_w.jpg",
+                "filename": "Moto-E7-Power-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back44",
+                "url": "https://live.staticflickr.com/65535/52753320275_a1cb915ee1.jpg",
+                "filename": "Moto-E7-Power-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "brand": "Motorola",
+        "model": "Motorola Edge 20 Pro",
+        "description": "6.7 inch AMOLED display with 144Hz refresh rate, Qualcomm Snapdragon 870, 8 GB RAM, 128 GB or 256 GB storage, triple camera system with 108 MP main camera, 16 MP ultra-wide camera, and 8 MP telephoto camera, 4500 mAh battery with 30W charging",
+        "price": 51290,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "shipping": true,
+        "display": "6.7 inch AMOLED display with 144Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 870",
+        "ram": "8 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Triple camera system with 108 MP main camera, 16 MP ultra-wide camera, and 8 MP telephoto camera",
+        "battery": "4500 mAh battery with 30W charging",
+        "image": "https://live.staticflickr.com/65535/52752180992_0507946b5e_n.jpg",
+        "stock": 39,
+        "reviews": 67,
+        "stars": 4.1,
+        "images": [
+            {
+                "id": "front45",
+                "url": "https://live.staticflickr.com/65535/52753150514_3a4890a848_n.jpg",
+                "filename": "Motorola-Edge-20-Pro-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back45",
+                "url": "https://live.staticflickr.com/65535/52753320175_caa5f3e964_n.jpg",
+                "filename": "Motorola-Edge-20-Pro-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "brand": "LG",
+        "model": "LG Velvet",
+        "description": "6.8 inch P-OLED display with 60Hz refresh rate, Qualcomm Snapdragon 845, 6 GB or 8 GB RAM, 128 GB or 256 GB storage, triple camera system with 48 MP main camera, 8 MP ultra-wide camera, and 5 MP depth camera, 4300 mAh battery with 25W charging",
+        "price": 44080,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#6b6b6b",
+            "#ff3b30"
+        ],
+        "shipping": true,
+        "display": "6.8 inch P-OLED display with 60Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 845",
+        "ram": "6 GB or 8 GB",
+        "storage": "128 GB or 256 GB",
+        "camera": "Triple camera system with 48 MP main camera, 8 MP ultra-wide camera, and 5 MP depth camera",
+        "battery": "4300 mAh battery with 25W charging",
+        "image": "https://live.staticflickr.com/65535/52752717031_886be433d7_n.jpg",
+        "stock": 12,
+        "reviews": 97,
+        "stars": 4.8,
+        "images": [
+            {
+                "id": "front46",
+                "url": "https://live.staticflickr.com/65535/52753150639_1d6439c22c_w.jpg",
+                "filename": "LG-Velvet-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back46",
+                "url": "https://live.staticflickr.com/65535/52752375057_b7dd26c76f_w.jpg",
+                "filename": "LG-Velvet-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "brand": "LG",
+        "model": "LG K92 5G",
+        "description": "6.7 inch IPS LCD display with 60Hz refresh rate, Qualcomm Snapdragon 690, 6 GB RAM, 128 GB storage, quad camera system with 64 MP main camera, 5 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera, 4000 mAh battery with 15W charging",
+        "price": 26422,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#808080"
+        ],
+        "shipping": true,
+        "display": "6.7 inch IPS LCD display with 60Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 690",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "camera": "Quad camera system with 64 MP main camera, 5 MP ultra-wide camera, 2 MP macro camera, and 2 MP depth camera",
+        "battery": "4000 mAh battery with 15W charging",
+        "image": "https://live.staticflickr.com/65535/52752181092_64f0cfb4c7_n.jpg",
+        "stock": 54,
+        "reviews": 60,
+        "stars": 4.1,
+        "images": [
+            {
+                "id": "front47",
+                "url": "https://live.staticflickr.com/65535/52753404513_48dc2da12b_n.jpg",
+                "filename": "LG-K92-5G-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back47",
+                "url": "https://live.staticflickr.com/65535/52753150764_3aa3814d09_n.jpg",
+                "filename": "LG-K92-5G-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "brand": "LG",
+        "model": "LG Stylo 6",
+        "description": "6.8 inch IPS LCD display with 60Hz refresh rate, MediaTek Helio P35 processor, 3 GB RAM, 64 GB storage, triple camera system with 13 MP main camera, 5 MP ultra-wide camera, and 5 MP depth camera, 4000 mAh battery with 10W charging.",
+        "price": 16187,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#ff3b30"
+        ],
+        "shipping": true,
+        "display": "6.8 inch IPS LCD display with 60Hz refresh rate",
+        "processor": "MediaTek Helio P35",
+        "ram": "3 GB",
+        "storage": "64 GB",
+        "camera": "Triple camera system with 13 MP main camera, 5 MP ultra-wide camera, and 5 MP depth camera",
+        "battery": "4000 mAh battery with 10W charging",
+        "image": "https://live.staticflickr.com/65535/52752957184_d101112ebf_n.jpg",
+        "stock": 78,
+        "reviews": 122,
+        "stars": 3.9,
+        "images": [
+            {
+                "id": "front48",
+                "url": "https://live.staticflickr.com/65535/52752909511_eb3043df2f_n.jpg",
+                "filename": "LG-Stylo-6-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back48",
+                "url": "https://live.staticflickr.com/65535/52752957184_d101112ebf_n.jpg",
+                "filename": "LG-Stylo-6-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "brand": "LG",
+        "model": "LG V60 ThinQ 5G",
+        "description": "6.8 inch P-OLED display with 60Hz refresh rate, Qualcomm Snapdragon 865 processor, 8 GB RAM, 128 GB storage, triple camera system with 64 MP main camera, 13 MP ultra-wide camera, and 0.3 MP time-of-flight camera, 5000 mAh battery with 25W charging.",
+        "price": 58821,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#a9a9a9"
+        ],
+        "shipping": true,
+        "display": "6.8 inch P-OLED display with 60Hz refresh rate",
+        "processor": "Qualcomm Snapdragon 865",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "camera": "Triple camera system with 64 MP main camera, 13 MP ultra-wide camera, and 0.3 MP time-of-flight camera",
+        "battery": "5000 mAh battery with 25W charging",
+        "image": "https://live.staticflickr.com/65535/52752181077_1ce36f3cb5_w.jpg",
+        "stock": 3,
+        "reviews": 56,
+        "stars": 4.4,
+        "images": [
+            {
+                "id": "front49",
+                "url": "https://live.staticflickr.com/65535/52753320315_9daf66069a_w.jpg",
+                "filename": "LG-V60-ThinQ-5G-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back49",
+                "url": "https://live.staticflickr.com/65535/52753150689_f1eaa7225b_w.jpg",
+                "filename": "LG-V60-ThinQ-5G-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    },
+    {
+        "id": "50",
+        "brand": "LG",
+        "model": "LG W31 Plus",
+        "description": "6.52 inch IPS LCD display with 60Hz refresh rate, MediaTek Helio P22 processor, 4 GB RAM, 128 GB storage, triple camera system with 13 MP main camera, 5 MP ultra-wide camera, and 2 MP depth camera, 4000 mAh battery with 10W charging.",
+        "price": 16804,
+        "colors": [
+            "#000",
+            "#CDD0D0",
+            "#FFA500"
+        ],
+        "shipping": true,
+        "display": "6.52 inch IPS LCD display with 60Hz refresh rate",
+        "processor": "MediaTek Helio P22",
+        "ram": "4 GB",
+        "storage": "128 GB",
+        "camera": "Triple camera system with 13 MP main camera, 5 MP ultra-wide camera, and 2 MP depth camera",
+        "battery": "4000 mAh battery with 10W charging",
+        "image": "https://live.staticflickr.com/65535/52752717011_dbaa45852a_w.jpg",
+        "stock": 31,
+        "reviews": 67,
+        "stars": 4.6,
+        "images": [
+            {
+                "id": "front50",
+                "url": "https://live.staticflickr.com/65535/52752909451_9631419ee3_z.jpg",
+                "filename": "LG-W31-Plus-f.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            },
+            {
+                "id": "back50",
+                "url": "https://live.staticflickr.com/65535/52752909456_b240774681_m.jpg",
+                "filename": "LG-W31-Plus-b.jpg",
+                "size": 1080,
+                "type": "image/jpg",
+                "width": 1080,
+                "height": 650
+            }
+        ]
+    }
+]

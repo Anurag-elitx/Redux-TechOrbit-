@@ -1,0 +1,18 @@
+{"level":"info","message":"Starting database seeding process...","service":"mobiworld-api","timestamp":"2025-06-22T16:14:34.543Z"}
+{"level":"info","message":"Environment: development","service":"mobiworld-api","timestamp":"2025-06-22T16:14:34.547Z"}
+{"level":"info","message":"Configuration: {\"seedData\":true,\"sampleDataCount\":20,\"clearExisting\":true,\"logLevel\":\"debug\"}","service":"mobiworld-api","timestamp":"2025-06-22T16:14:34.549Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"mobiworld-api","timestamp":"2025-06-22T16:14:34.930Z"}
+{"level":"info","message":"No existing products to clear","service":"mobiworld-api","timestamp":"2025-06-22T16:14:35.049Z"}
+{"level":"info","message":"Generating 20 products...","service":"mobiworld-api","timestamp":"2025-06-22T16:14:35.067Z"}
+{"level":"info","message":"Generated 20 unique products","service":"mobiworld-api","timestamp":"2025-06-22T16:14:35.084Z"}
+{"level":"info","message":"Validating generated products...","service":"mobiworld-api","timestamp":"2025-06-22T16:14:35.085Z"}
+{"level":"info","message":"Inserting 20 products in batches of 50...","service":"mobiworld-api","timestamp":"2025-06-22T16:14:35.103Z"}
+{"level":"info","message":"Batch inserted: 20 products","service":"mobiworld-api","timestamp":"2025-06-22T16:14:35.201Z"}
+{"level":"info","message":"Progress: 20/20 products processed","service":"mobiworld-api","timestamp":"2025-06-22T16:14:35.202Z"}
+{"level":"info","message":"Seeding completed. Total products in database: 20","service":"mobiworld-api","timestamp":"2025-06-22T16:14:35.216Z"}
+{"level":"info","message":"Seeding process completed in 673ms","service":"mobiworld-api","timestamp":"2025-06-22T16:14:35.216Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"mobiworld-api","timestamp":"2025-06-22T16:30:39.543Z"}
+{"level":"info","message":"Read 50 products from JSON file","service":"mobiworld-api","timestamp":"2025-06-22T16:30:39.547Z"}
+{"level":"info","message":"Cleared existing products","service":"mobiworld-api","timestamp":"2025-06-22T16:30:39.729Z"}
+{"level":"info","message":"Successfully imported 50 products","service":"mobiworld-api","timestamp":"2025-06-22T16:30:39.894Z"}
+{"level":"info","message":"Database connection closed","service":"mobiworld-api","timestamp":"2025-06-22T16:30:39.902Z"}
